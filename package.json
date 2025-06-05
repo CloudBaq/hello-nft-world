@@ -1,0 +1,12 @@
+{
+    "name": "hello-nft-world",
+    "version": "1.0.0",
+    "description": "Basic Node.js app that says 'hello NFT world'",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "CloudBaq DevOps",
+    "license": "MIT"
+  }
+  
