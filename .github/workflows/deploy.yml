@@ -12,7 +12,7 @@ jobs:
 
     env:
       AWS_REGION: us-east-1
-      ECR_REPOSITORY: hello-nft-world
+      ECR_REPOSITORY: web3infra-staging
       IMAGE_TAG: latest
       CLUSTER_NAME: web3infra-staging
       SERVICE_NAME: web3infra-staging-task-service-yosr7hoe
